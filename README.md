@@ -135,14 +135,6 @@ The D8 flow routing algorithm can produce unrealistically large catchment areas 
 
 ---
 
-## Acknowledgments
-
-Python scripts were developed collaboratively with Claude, an AI assistant by Anthropic (claude.ai, 2026). Claude assisted with script development, debugging, Manning's equation implementation, and NRCS TR-55 methodology. All analytical decisions, parameter selection, data interpretation, and results were reviewed and validated by the author.
-
-The author thanks Ted Semadeni, Lenexa Storm Water Superintendent, for guidance on local stormwater design standards.
-
----
-
 ## References
 
 American Society of Civil Engineers (ASCE). (1992). *Design and Construction of Urban Stormwater Management Systems.* ASCE Manuals of Engineering Practice No. 77.
